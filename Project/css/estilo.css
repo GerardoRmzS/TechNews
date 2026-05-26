@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+img{
+  width: 100%;
+}
+div{
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
+.font{
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 800;
+}
+.bg_negro{
+  background-color: rgb(0, 0, 0);
+}
+.bg_white{
+  background-color: rgb(215, 215, 215);
+}
+
+.font2{
+  font-size: 12px;
+  font-weight: bolder;
+}
